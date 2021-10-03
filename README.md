@@ -2,6 +2,8 @@ Common table library
 
 [Live website](https://6159b149bb94175d84d9e51f--tender-aryabhata-c3b59c.netlify.app/)
 
+![Screenshots](https://github.com/harry1988123/commonTableLib2/blob/master/1.PNG?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5. 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. 
